@@ -4,7 +4,7 @@
 # GitHub stats
     
 <p style="display: flex; justify-content: space-between" >
-    <a href="https://git.io/streak-stats">
+    <a href="https://github.com/twelfthdannis">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=twelfthdannis&theme=midnight-purple" alt="GitHub Streak" />
     </a>
     <a href="https://github.com/twelfthdannis">
