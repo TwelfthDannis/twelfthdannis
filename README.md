@@ -1,16 +1,15 @@
-## Hi there 👋
+![](https://github.com/TwelfthDannis/twelfthdannis/blob/main/bedroom.gif)
 
-<!--
-**TwelfthDannis/twelfthdannis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# GitHub stats
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p style="display: flex; justify-content: space-between" >
+    <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=twelfthdannis&theme=midnight-purple" alt="GitHub Streak" />
+    </a>
+    <a href="https://github.com/twelfthdannis">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twelfthdannis&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="twelfthdannis's GitHub Stats" />
+    </a>
+</p>
+
+<hr/>
