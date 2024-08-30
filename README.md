@@ -1,8 +1,8 @@
-![](https://github.com/TwelfthDannis/twelfthdannis/blob/main/bedroom.gif)
+
+`![](https://github.com/TwelfthDannis/twelfthdannis/blob/main/bedroom.gif)`
 
 # GitHub stats
-
-
+    
 <p style="display: flex; justify-content: space-between" >
     <a href="https://git.io/streak-stats">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=twelfthdannis&theme=midnight-purple" alt="GitHub Streak" />
