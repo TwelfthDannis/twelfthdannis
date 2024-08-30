@@ -1,5 +1,5 @@
 
-`![](https://github.com/TwelfthDannis/twelfthdannis/blob/main/bedroom.gif)`
+![](https://github.com/TwelfthDannis/twelfthdannis/blob/main/bedroom.gif)
 
 # GitHub stats
     
